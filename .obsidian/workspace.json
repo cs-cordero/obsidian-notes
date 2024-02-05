@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "591e67f6909c7812",
+    "type": "split",
+    "children": [
+      {
+        "id": "89f010f100dc123f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee69ca89d3bf758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/OSI Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7b1763938decefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13839d45ab03181a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Socket.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2d7850a8751992c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c0fadaab429cd63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f9f4dd6eacba66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02ab82c143fd303c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d4423de6a7278c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b8811a98fe973a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5edc6b1ab4b86805",
+        "type": "tabs",
+        "dimension": 65.7520325203252,
+        "children": [
+          {
+            "id": "db4a9890ff1bbef3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Socket.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bcb40d5bc5aff9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Socket.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fdbf3ddb9972c1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c02f5143bc65322b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Socket.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "801e8452caa897f3",
+        "type": "tabs",
+        "dimension": 34.2479674796748,
+        "children": [
+          {
+            "id": "fd0c9220e0a68d6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13839d45ab03181a",
+  "lastOpenFiles": [
+    "Networking/Architecture.md",
+    "Encoding.md",
+    "Thread.md",
+    "LICENSE",
+    "Socket.md",
+    "Encryption.md",
+    "Networking/OSI Model.md",
+    "Networking/Application Layer.md",
+    "Networking/TCP IP Protocol Model.md",
+    "Untitled 1.md",
+    "Networking",
+    "Networking.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
